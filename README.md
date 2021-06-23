@@ -1,2 +1,2 @@
-# Tick-tock
-Tick tock proj 42 V1
+# p5.play-boilerplate
+Boiler plate for p5.play
